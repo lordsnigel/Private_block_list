@@ -1,11 +1,11 @@
 #streaming ads
-1301589822.rsc.cdn77.org
-advice.co
-cdn.www.shglegle.com
-getcontent.net
-n1110.digadser.com
-www.gstatic.com
-www.shglegle.com
+0.0.0.0 1301589822.rsc.cdn77.org
+0.0.0.0 advice.co
+0.0.0.0 cdn.www.shglegle.com
+0.0.0.0 getcontent.net
+0.0.0.0 n1110.digadser.com
+0.0.0.0 www.gstatic.com
+0.0.0.0 www.shglegle.com
 #Shit
 0.0.0.0	a.ads1.msn.com
 0.0.0.0	a.ads2.msads.net
