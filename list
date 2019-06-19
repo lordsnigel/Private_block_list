@@ -79,10 +79,3 @@
 0.0.0.0	www.msftncsi.com
 0.0.0.0 adservice.google.fi
 0.0.0.0 pubads.g.doubleclick.net
-# spotify
-0.0.0.0 pubads.g.doubleclick.net
-0.0.0.0 securepubads.g.doubleclick.net
-0.0.0.0 www.googletagservices.com
-0.0.0.0 gads.pubmatic.com
-0.0.0.0 ads.pubmatic.com
-0.0.0.0 spclient.wg.spotify.com
